@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8e46dc6c596075c75524cc9222d849ffe0dd11e7",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8e46dc6c596075c75524cc9222d849ffe0dd11e7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "AaveGhoster NFT",
+  "SYMBOL": "AG",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/aaveghoster",
+  "SHOW_BACKGROUND": true
+}
