@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T04:18:49.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="iOPmMpE2Awm8GWzc8fDw" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T04:18:55.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XMZhCH3KPoTT8vm-5gVQ" version="24.5.5" type="github">
   <diagram name="Page-1" id="B_gv9GOFP5bBfRUmPWNx">
     <mxGraphModel dx="6480" dy="3560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="ERC3TZl0UmH6vnA0-MCl-28" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Wireless Device&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-457.57" y="950" width="335" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ERC3TZl0UmH6vnA0-MCl-29" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Printers&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="ERC3TZl0UmH6vnA0-MCl-29" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Printer&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-457.57" y="1210" width="335" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cU2UB0Qx6bh0rX04pfWm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="ERC3TZl0UmH6vnA0-MCl-30" target="ERC3TZl0UmH6vnA0-MCl-31" edge="1">
@@ -130,7 +130,7 @@
         <mxCell id="ERC3TZl0UmH6vnA0-MCl-32" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Wireless Device&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="262.5" y="990" width="335" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ERC3TZl0UmH6vnA0-MCl-33" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Printers&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="ERC3TZl0UmH6vnA0-MCl-33" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Printer&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="262.5" y="1260" width="335" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cU2UB0Qx6bh0rX04pfWm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=10;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="ERC3TZl0UmH6vnA0-MCl-36" target="ERC3TZl0UmH6vnA0-MCl-39" edge="1">
